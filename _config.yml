@@ -1,6 +1,6 @@
 title: Streamdata Gallery
 url: blockchain-info.api.streamdata.gallery
-tag: Temmplate
+tag: Blockchain Info
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery-organizations
