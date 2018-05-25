@@ -4,7 +4,7 @@ x-collection-name: Blockchain Info
 x-complete: 1
 info:
   title: Blockchain Info
-  description: use-blockchains-apis-at-no-cost-to-help-you-start-building-bitcoin-apps
+  description: use-blockchains-apis-at-no-cost-to-help-you-start-building-bitcoin-apps-
   version: 1.0.0
 host: blockchain.info
 schemes:
